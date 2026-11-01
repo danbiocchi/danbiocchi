@@ -24,12 +24,18 @@ Non-negotiable. Open a pull request if you want to argue.
 
 ### What's on the bench
 
-- **[hermes-vcc-engine](https://github.com/danbiocchi/hermes-vcc-engine)**: instant context compaction for Hermes Agent. It builds the summary in milliseconds with no LLM call, keeping the exact commands, exit codes, errors and files, each linked back to its original message. Based on the VCC paper.
-- **[airborne-oxide](https://github.com/danbiocchi/airborne-oxide)**: uncrewed vehicles, powered by Rust.
-- **[Attendex](https://github.com/danbiocchi/Attendex)**: a TypeScript app for keeping track of students.
-- **A game in development**, with a Discord community I built and run. The code stays private for now.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/bench-dark.svg">
+    <img alt="Graph of my home server, AI-Bot. Home Hub serves Transmute, Transcribe, Job Hunter, Pi Fleet, 3D Modeller and Control Room. Hermes Agent calls the hub's app APIs and builds Transmute nightly; hermes-vcc-engine is its context engine. The llama.cpp router runs on two Pascal GPUs and feeds Hermes and its gateway; ComfyUI unloads the LLM before image jobs. Pi Fleet drives a Pi-hole; the gateway and the hub's uptime alerts go to Discord, which is also home to my game's community. Also on the bench: airborne-oxide, Attendex and a Rust VPN." src="assets/bench-light.svg" width="100%">
+  </picture>
+</p>
 
-Quieter work, all private for now: a local speech-to-text engine, an all-in-one file converter that runs in the browser, a personal workflow tool, and an experimental VPN in Rust with two layers of encryption.
+<p align="center">
+  <a href="https://github.com/danbiocchi/hermes-vcc-engine"><img alt="hermes-vcc-engine" src="https://img.shields.io/badge/hermes--vcc--engine-context_compaction-6E56CF?style=for-the-badge"></a>
+  <a href="https://github.com/danbiocchi/airborne-oxide"><img alt="airborne-oxide" src="https://img.shields.io/badge/airborne--oxide-uncrewed_vehicles-000000?style=for-the-badge&logo=rust&logoColor=white"></a>
+  <a href="https://github.com/danbiocchi/Attendex"><img alt="Attendex" src="https://img.shields.io/badge/Attendex-student_tracking-3178C6?style=for-the-badge&logo=typescript&logoColor=white"></a>
+</p>
 
 ### Right now
 

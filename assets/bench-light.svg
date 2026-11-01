@@ -1,0 +1,163 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 970 660" width="970" height="660" role="img" aria-labelledby="t d">
+<title id="t">What's on the bench</title>
+<desc id="d">A graph of the apps and services on my home server and how they connect, plus my other projects.</desc>
+<style>
+text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}
+.l{font-size:13px;font-weight:600;fill:#1f2328}
+.s{font-size:10.5px;fill:#59636e}
+.h{font-size:11px;font-weight:700;letter-spacing:.12em;fill:#59636e}
+.e{fill:none;stroke:#0B5394;stroke-opacity:0.32;stroke-width:1.4}
+.f{fill:none;stroke:#0B5394;stroke-width:1.6;stroke-dasharray:3 22;stroke-linecap:round;opacity:.85;
+   animation:flow 2.8s linear infinite}
+.et{font-size:10px;font-style:italic;fill:#59636e}
+.p{fill:none;stroke:#0B5394;stroke-width:1.2;opacity:0;transform-box:fill-box;transform-origin:center;
+   animation:pulse 3.2s ease-out infinite}
+@keyframes flow{to{stroke-dashoffset:-25}}
+@keyframes pulse{0%{opacity:.8;transform:scale(1)}100%{opacity:0;transform:scale(3)}}
+@media (prefers-reduced-motion:reduce){.f,.p{animation:none}.f{display:none}}
+</style>
+<rect x="16" y="14" width="938" height="386" rx="14" fill="#f6f8fa" stroke="#d1d9e0"/>
+<text class="h" x="34" y="40">AI-BOT · HOME SERVER</text>
+<rect x="16" y="510" width="938" height="110" rx="14" fill="#f6f8fa" stroke="#d1d9e0"/>
+<text class="h" x="34" y="534">ALSO ON THE BENCH</text>
+<path class="e" d="M250,215 L250,90"/>
+<path class="f" d="M250,215 L250,90" style="animation-delay:-0.00s"/>
+<path class="e" d="M250,215 L430,140"/>
+<path class="f" d="M250,215 L430,140" style="animation-delay:-0.37s"/>
+<path class="e" d="M250,215 L430,290"/>
+<path class="f" d="M250,215 L430,290" style="animation-delay:-0.74s"/>
+<path class="e" d="M250,215 L250,340"/>
+<path class="f" d="M250,215 L250,340" style="animation-delay:-1.11s"/>
+<path class="e" d="M250,215 L112,290"/>
+<path class="f" d="M250,215 L112,290" style="animation-delay:-1.48s"/>
+<path class="e" d="M250,215 L112,140"/>
+<path class="f" d="M250,215 L112,140" style="animation-delay:-1.85s"/>
+<path class="e" d="M250,340 L250,468"/>
+<path class="f" d="M250,340 L250,468" style="animation-delay:-2.22s"/>
+<path class="e" d="M600,42 L600,125"/>
+<path class="f" d="M600,42 L600,125" style="animation-delay:-2.59s"/>
+<path class="e" d="M600,125 Q470,215 250,215"/>
+<path class="f" d="M600,125 Q470,215 250,215" style="animation-delay:-0.16s"/>
+<path class="e" d="M600,125 Q420,30 250,90"/>
+<path class="f" d="M600,125 Q420,30 250,90" style="animation-delay:-0.53s"/>
+<path class="e" d="M745,212 L600,125"/>
+<path class="f" d="M745,212 L600,125" style="animation-delay:-0.90s"/>
+<path class="e" d="M745,212 L600,300"/>
+<path class="f" d="M745,212 L600,300" style="animation-delay:-1.27s"/>
+<path class="e" d="M872,125 L745,212"/>
+<path class="f" d="M872,125 L745,212" style="animation-delay:-1.64s"/>
+<path class="e" d="M745,212 L872,300"/>
+<path class="f" d="M745,212 L872,300" style="animation-delay:-2.01s"/>
+<path class="e" d="M872,125 L872,300"/>
+<path class="f" d="M872,125 L872,300" style="animation-delay:-2.38s"/>
+<path class="e" d="M600,300 L600,468"/>
+<path class="f" d="M600,300 L600,468" style="animation-delay:-2.75s"/>
+<path class="e" d="M250,215 C345,250 335,420 600,468"/>
+<path class="f" d="M250,215 C345,250 335,420 600,468" style="animation-delay:-0.32s"/>
+<path class="e" d="M600,468 L600,572"/>
+<path class="f" d="M600,468 L600,572" style="animation-delay:-0.69s"/>
+<rect x="158.0" y="190.0" width="184" height="50" rx="25.0" fill="#dbe9f7" stroke="#0B5394" stroke-width="1.6"/>
+<circle class="p" cx="174.0" cy="215" r="3.5" style="animation-delay:0.00s"/>
+<circle cx="174.0" cy="215" r="3.5" fill="#0B5394"/>
+<text class="l" x="257.0" y="212" text-anchor="middle">Home Hub</text>
+<text class="s" x="257.0" y="227" text-anchor="middle">the Deck · one server</text>
+<rect x="187.0" y="68.0" width="126" height="44" rx="22.0" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
+<circle class="p" cx="203.0" cy="90" r="3.5" style="animation-delay:0.29s"/>
+<circle cx="203.0" cy="90" r="3.5" fill="#0B5394"/>
+<text class="l" x="257.0" y="87" text-anchor="middle">Transmute</text>
+<text class="s" x="257.0" y="102" text-anchor="middle">file converter</text>
+<rect x="367.0" y="118.0" width="126" height="44" rx="22.0" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
+<circle class="p" cx="383.0" cy="140" r="3.5" style="animation-delay:0.58s"/>
+<circle cx="383.0" cy="140" r="3.5" fill="#0B5394"/>
+<text class="l" x="437.0" y="137" text-anchor="middle">Transcribe</text>
+<text class="s" x="437.0" y="152" text-anchor="middle">speech to text</text>
+<rect x="355.0" y="268.0" width="150" height="44" rx="22.0" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
+<circle class="p" cx="371.0" cy="290" r="3.5" style="animation-delay:0.87s"/>
+<circle cx="371.0" cy="290" r="3.5" fill="#0B5394"/>
+<text class="l" x="437.0" y="287" text-anchor="middle">Job Hunter</text>
+<text class="s" x="437.0" y="302" text-anchor="middle">job search console</text>
+<rect x="169.0" y="318.0" width="162" height="44" rx="22.0" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
+<circle class="p" cx="185.0" cy="340" r="3.5" style="animation-delay:1.16s"/>
+<circle cx="185.0" cy="340" r="3.5" fill="#0B5394"/>
+<text class="l" x="257.0" y="337" text-anchor="middle">Pi Fleet</text>
+<text class="s" x="257.0" y="352" text-anchor="middle">Raspberry Pi control</text>
+<rect x="43.0" y="268.0" width="138" height="44" rx="22.0" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
+<circle class="p" cx="59.0" cy="290" r="3.5" style="animation-delay:1.45s"/>
+<circle cx="59.0" cy="290" r="3.5" fill="#0B5394"/>
+<text class="l" x="119.0" y="287" text-anchor="middle">3D Modeller</text>
+<text class="s" x="119.0" y="302" text-anchor="middle">viewer · renders</text>
+<rect x="22.0" y="118.0" width="180" height="44" rx="22.0" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
+<circle class="p" cx="38.0" cy="140" r="3.5" style="animation-delay:1.74s"/>
+<circle cx="38.0" cy="140" r="3.5" fill="#0B5394"/>
+<text class="l" x="119.0" y="137" text-anchor="middle">Control Room</text>
+<text class="s" x="119.0" y="152" text-anchor="middle">services · GPUs · spend</text>
+<rect x="501.0" y="20.0" width="198" height="44" rx="22.0" fill="#e3eef9" stroke="#0B5394" stroke-width="1.6"/>
+<circle class="p" cx="517.0" cy="42" r="3.5" style="animation-delay:2.03s"/>
+<circle cx="517.0" cy="42" r="3.5" fill="#0B5394"/>
+<text class="l" x="607.0" y="39" text-anchor="middle">hermes-vcc-engine</text>
+<text class="s" x="607.0" y="54" text-anchor="middle">instant context compaction</text>
+<rect x="533.5" y="103.0" width="133" height="44" rx="22.0" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
+<circle class="p" cx="549.5" cy="125" r="3.5" style="animation-delay:2.32s"/>
+<circle cx="549.5" cy="125" r="3.5" fill="#0B5394"/>
+<text class="l" x="607.0" y="122" text-anchor="middle">Hermes Agent</text>
+<text class="s" x="607.0" y="137" text-anchor="middle">agent · WebUI</text>
+<rect x="526.0" y="278.0" width="148" height="44" rx="22.0" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
+<circle class="p" cx="542.0" cy="300" r="3.5" style="animation-delay:2.61s"/>
+<circle cx="542.0" cy="300" r="3.5" fill="#0B5394"/>
+<text class="l" x="607.0" y="297" text-anchor="middle">Hermes gateway</text>
+<text class="s" x="607.0" y="312" text-anchor="middle">chat front end</text>
+<rect x="663.0" y="190.0" width="164" height="44" rx="22.0" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
+<circle class="p" cx="679.0" cy="212" r="3.5" style="animation-delay:2.90s"/>
+<circle cx="679.0" cy="212" r="3.5" fill="#0B5394"/>
+<text class="l" x="752.0" y="209" text-anchor="middle">llama.cpp router</text>
+<text class="s" x="752.0" y="224" text-anchor="middle">local Qwen 27B</text>
+<rect x="803.0" y="103.0" width="138" height="44" rx="22.0" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
+<circle class="p" cx="819.0" cy="125" r="3.5" style="animation-delay:3.19s"/>
+<circle cx="819.0" cy="125" r="3.5" fill="#0B5394"/>
+<text class="l" x="879.0" y="122" text-anchor="middle">ComfyUI</text>
+<text class="s" x="879.0" y="137" text-anchor="middle">image generation</text>
+<rect x="798.0" y="278.0" width="148" height="44" rx="22.0" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
+<circle class="p" cx="814.0" cy="300" r="3.5" style="animation-delay:3.48s"/>
+<circle cx="814.0" cy="300" r="3.5" fill="#0B5394"/>
+<text class="l" x="879.0" y="297" text-anchor="middle">2× Pascal GPUs</text>
+<text class="s" x="879.0" y="312" text-anchor="middle">GTX 1080 + 1070</text>
+<rect x="196.0" y="446.0" width="108" height="44" rx="22.0" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
+<circle class="p" cx="212.0" cy="468" r="3.5" style="animation-delay:3.77s"/>
+<circle cx="212.0" cy="468" r="3.5" fill="#0B5394"/>
+<text class="l" x="257.0" y="465" text-anchor="middle">Pi-hole</text>
+<text class="s" x="257.0" y="480" text-anchor="middle">Pi Zero 2 W</text>
+<rect x="507.0" y="446.0" width="186" height="44" rx="22.0" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
+<circle class="p" cx="523.0" cy="468" r="3.5" style="animation-delay:4.06s"/>
+<circle cx="523.0" cy="468" r="3.5" fill="#0B5394"/>
+<text class="l" x="607.0" y="465" text-anchor="middle">Discord</text>
+<text class="s" x="607.0" y="480" text-anchor="middle">bot · alerts · community</text>
+<rect x="37.0" y="550.0" width="186" height="44" rx="22.0" fill="#e3eef9" stroke="#0B5394" stroke-width="1.6"/>
+<circle class="p" cx="53.0" cy="572" r="3.5" style="animation-delay:4.35s"/>
+<circle cx="53.0" cy="572" r="3.5" fill="#0B5394"/>
+<text class="l" x="137.0" y="569" text-anchor="middle">airborne-oxide</text>
+<text class="s" x="137.0" y="584" text-anchor="middle">Rust · uncrewed vehicles</text>
+<rect x="261.0" y="550.0" width="168" height="44" rx="22.0" fill="#e3eef9" stroke="#0B5394" stroke-width="1.6"/>
+<circle class="p" cx="277.0" cy="572" r="3.5" style="animation-delay:4.64s"/>
+<circle cx="277.0" cy="572" r="3.5" fill="#0B5394"/>
+<text class="l" x="352.0" y="569" text-anchor="middle">Attendex</text>
+<text class="s" x="352.0" y="584" text-anchor="middle">TypeScript · students</text>
+<rect x="537.0" y="550.0" width="126" height="44" rx="22.0" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
+<circle cx="553.0" cy="572" r="3.5" fill="#59636e"/>
+<text class="l" x="607.0" y="569" text-anchor="middle">The game</text>
+<text class="s" x="607.0" y="584" text-anchor="middle">in development</text>
+<rect x="752.0" y="550.0" width="186" height="44" rx="22.0" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
+<circle cx="768.0" cy="572" r="3.5" fill="#59636e"/>
+<text class="l" x="852.0" y="569" text-anchor="middle">Rust VPN</text>
+<text class="s" x="852.0" y="584" text-anchor="middle">two layers of encryption</text>
+<text class="et" x="258" y="410" stroke="#f6f8fa" stroke-width="4" paint-order="stroke" stroke-linejoin="round">Pi-hole API</text>
+<text class="et" x="608" y="86" stroke="#f6f8fa" stroke-width="4" paint-order="stroke" stroke-linejoin="round">context engine</text>
+<text class="et" x="470" y="200" stroke="#f6f8fa" stroke-width="4" paint-order="stroke" stroke-linejoin="round">calls app APIs</text>
+<text class="et" x="418" y="62" stroke="#f6f8fa" stroke-width="4" paint-order="stroke" stroke-linejoin="round">builds it nightly</text>
+<text class="et" x="690" y="158" stroke="#f6f8fa" stroke-width="4" paint-order="stroke" stroke-linejoin="round">inference</text>
+<text class="et" x="836" y="172" stroke="#f6f8fa" stroke-width="4" paint-order="stroke" stroke-linejoin="round">unloads LLM first</text>
+<text class="et" x="880" y="212" stroke="#f6f8fa" stroke-width="4" paint-order="stroke" stroke-linejoin="round">runs on GPU 0</text>
+<text class="et" x="608" y="392" stroke="#f6f8fa" stroke-width="4" paint-order="stroke" stroke-linejoin="round">bot</text>
+<text class="et" x="448" y="432" stroke="#f6f8fa" stroke-width="4" paint-order="stroke" stroke-linejoin="round">uptime alerts</text>
+<text class="et" x="608" y="522" stroke="#f6f8fa" stroke-width="4" paint-order="stroke" stroke-linejoin="round">community</text>
+<text class="s" x="954" y="644" text-anchor="end">outlined = public repo (links below) · lines = what talks to what</text>
+</svg>
