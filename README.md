@@ -27,7 +27,7 @@ Non-negotiable. Open a pull request if you want to argue.
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/bench-dark.svg">
-    <img alt="Graph of my home server, AI-Bot. Home Hub serves Transmute, Transcribe, Job Hunter, Pi Fleet, 3D Modeller and Control Room. Hermes Agent calls the hub's app APIs and builds Transmute nightly; hermes-vcc-engine is its context engine. The llama.cpp router runs on two Pascal GPUs and feeds Hermes and its gateway; ComfyUI unloads the LLM before image jobs. Pi Fleet drives a Pi-hole; the gateway and the hub's uptime alerts go to Discord, which is also home to my game's community. Also on the bench: airborne-oxide, Attendex and a Rust VPN." src="assets/bench-light.svg" width="100%">
+    <img alt="Graph of my home server, AI-Bot. Home Hub serves Transmute, Transcribe, Business Finder, Pi Fleet, 3D Modeller and Control Room. Hermes Agent calls the hub's app APIs and builds Transmute and Business Finder nightly; hermes-vcc-engine is its context engine. The llama.cpp router runs on two Pascal GPUs and feeds Hermes and its gateway; ComfyUI unloads the LLM before image jobs. Pi Fleet drives a Pi-hole; the gateway and the hub's uptime alerts go to Discord, which is also home to my game's community. Also on the bench: airborne-oxide, Attendex and a Rust VPN." src="assets/bench-light.svg" width="100%">
   </picture>
 </p>
 
