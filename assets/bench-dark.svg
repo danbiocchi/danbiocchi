@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 970 660" width="970" height="660" role="img" aria-labelledby="t d">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 970 736" width="970" height="736" role="img" aria-labelledby="t d">
 <title id="t">What's on the bench</title>
 <desc id="d">A graph of the apps and services on my home server and how they connect, plus my other projects.</desc>
 <style>
@@ -16,148 +16,172 @@ text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,san
 @keyframes pulse{0%{opacity:.8;transform:scale(1)}100%{opacity:0;transform:scale(3)}}
 @media (prefers-reduced-motion:reduce){.f,.p{animation:none}.f{display:none}}
 </style>
-<rect x="16" y="14" width="938" height="386" rx="14" fill="#0d1117" stroke="#30363d"/>
+<rect x="16" y="14" width="938" height="462" rx="14" fill="#0d1117" stroke="#30363d"/>
 <text class="h" x="34" y="40">AI-BOT · HOME SERVER</text>
-<rect x="16" y="510" width="938" height="110" rx="14" fill="#0d1117" stroke="#30363d"/>
-<text class="h" x="34" y="534">ALSO ON THE BENCH</text>
-<path class="e" d="M250,215 L250,90"/>
-<path class="f" d="M250,215 L250,90" style="animation-delay:-0.00s"/>
-<path class="e" d="M250,215 L430,140"/>
-<path class="f" d="M250,215 L430,140" style="animation-delay:-0.37s"/>
-<path class="e" d="M250,215 L430,290"/>
-<path class="f" d="M250,215 L430,290" style="animation-delay:-0.74s"/>
-<path class="e" d="M250,215 L250,340"/>
-<path class="f" d="M250,215 L250,340" style="animation-delay:-1.11s"/>
-<path class="e" d="M250,215 L112,290"/>
-<path class="f" d="M250,215 L112,290" style="animation-delay:-1.48s"/>
-<path class="e" d="M250,215 L112,140"/>
-<path class="f" d="M250,215 L112,140" style="animation-delay:-1.85s"/>
-<path class="e" d="M250,340 L250,468"/>
-<path class="f" d="M250,340 L250,468" style="animation-delay:-2.22s"/>
-<path class="e" d="M600,42 L600,125"/>
-<path class="f" d="M600,42 L600,125" style="animation-delay:-2.59s"/>
-<path class="e" d="M600,125 Q470,215 250,215"/>
-<path class="f" d="M600,125 Q470,215 250,215" style="animation-delay:-0.16s"/>
-<path class="e" d="M600,125 Q420,30 250,90"/>
-<path class="f" d="M600,125 Q420,30 250,90" style="animation-delay:-0.53s"/>
-<path class="e" d="M745,212 L600,125"/>
-<path class="f" d="M745,212 L600,125" style="animation-delay:-0.90s"/>
-<path class="e" d="M745,212 L600,300"/>
-<path class="f" d="M745,212 L600,300" style="animation-delay:-1.27s"/>
-<path class="e" d="M872,125 L745,212"/>
-<path class="f" d="M872,125 L745,212" style="animation-delay:-1.64s"/>
-<path class="e" d="M745,212 L872,300"/>
-<path class="f" d="M745,212 L872,300" style="animation-delay:-2.01s"/>
-<path class="e" d="M872,125 L872,300"/>
-<path class="f" d="M872,125 L872,300" style="animation-delay:-2.38s"/>
-<path class="e" d="M600,300 L600,468"/>
-<path class="f" d="M600,300 L600,468" style="animation-delay:-2.75s"/>
-<path class="e" d="M250,215 C345,250 335,420 600,468"/>
-<path class="f" d="M250,215 C345,250 335,420 600,468" style="animation-delay:-0.32s"/>
-<path class="e" d="M600,468 L600,572"/>
-<path class="f" d="M600,468 L600,572" style="animation-delay:-0.69s"/>
-<rect x="158.0" y="190.0" width="184" height="50" rx="25.0" fill="#10283a" stroke="#7DD3FC" stroke-width="1.6"/>
-<circle class="p" cx="174.0" cy="215" r="3.5" style="animation-delay:0.00s"/>
-<circle cx="174.0" cy="215" r="3.5" fill="#7DD3FC"/>
-<text class="l" x="257.0" y="212" text-anchor="middle">Home Hub</text>
-<text class="s" x="257.0" y="227" text-anchor="middle">the Deck · one server</text>
-<rect x="187.0" y="68.0" width="126" height="44" rx="22.0" fill="#161b22" stroke="#30363d" stroke-width="1"/>
-<circle class="p" cx="203.0" cy="90" r="3.5" style="animation-delay:0.29s"/>
-<circle cx="203.0" cy="90" r="3.5" fill="#7DD3FC"/>
-<text class="l" x="257.0" y="87" text-anchor="middle">Transmute</text>
-<text class="s" x="257.0" y="102" text-anchor="middle">file converter</text>
-<rect x="367.0" y="118.0" width="126" height="44" rx="22.0" fill="#161b22" stroke="#30363d" stroke-width="1"/>
-<circle class="p" cx="383.0" cy="140" r="3.5" style="animation-delay:0.58s"/>
-<circle cx="383.0" cy="140" r="3.5" fill="#7DD3FC"/>
-<text class="l" x="437.0" y="137" text-anchor="middle">Transcribe</text>
-<text class="s" x="437.0" y="152" text-anchor="middle">speech to text</text>
-<rect x="355.0" y="268.0" width="150" height="44" rx="22.0" fill="#161b22" stroke="#30363d" stroke-width="1"/>
-<circle class="p" cx="371.0" cy="290" r="3.5" style="animation-delay:0.87s"/>
-<circle cx="371.0" cy="290" r="3.5" fill="#7DD3FC"/>
-<text class="l" x="437.0" y="287" text-anchor="middle">Business Finder</text>
-<text class="s" x="437.0" y="302" text-anchor="middle">open-data lead radar</text>
-<rect x="169.0" y="318.0" width="162" height="44" rx="22.0" fill="#161b22" stroke="#30363d" stroke-width="1"/>
-<circle class="p" cx="185.0" cy="340" r="3.5" style="animation-delay:1.16s"/>
-<circle cx="185.0" cy="340" r="3.5" fill="#7DD3FC"/>
-<text class="l" x="257.0" y="337" text-anchor="middle">Pi Fleet</text>
-<text class="s" x="257.0" y="352" text-anchor="middle">Raspberry Pi control</text>
-<rect x="43.0" y="268.0" width="138" height="44" rx="22.0" fill="#161b22" stroke="#30363d" stroke-width="1"/>
-<circle class="p" cx="59.0" cy="290" r="3.5" style="animation-delay:1.45s"/>
-<circle cx="59.0" cy="290" r="3.5" fill="#7DD3FC"/>
-<text class="l" x="119.0" y="287" text-anchor="middle">3D Modeller</text>
-<text class="s" x="119.0" y="302" text-anchor="middle">viewer · renders</text>
-<rect x="22.0" y="118.0" width="180" height="44" rx="22.0" fill="#161b22" stroke="#30363d" stroke-width="1"/>
-<circle class="p" cx="38.0" cy="140" r="3.5" style="animation-delay:1.74s"/>
-<circle cx="38.0" cy="140" r="3.5" fill="#7DD3FC"/>
-<text class="l" x="119.0" y="137" text-anchor="middle">Control Room</text>
-<text class="s" x="119.0" y="152" text-anchor="middle">services · GPUs · spend</text>
-<rect x="501.0" y="20.0" width="198" height="44" rx="22.0" fill="#0c2a3a" stroke="#7DD3FC" stroke-width="1.6"/>
-<circle class="p" cx="517.0" cy="42" r="3.5" style="animation-delay:2.03s"/>
-<circle cx="517.0" cy="42" r="3.5" fill="#7DD3FC"/>
-<text class="l" x="607.0" y="39" text-anchor="middle">hermes-vcc-engine</text>
-<text class="s" x="607.0" y="54" text-anchor="middle">instant context compaction</text>
-<rect x="533.5" y="103.0" width="133" height="44" rx="22.0" fill="#161b22" stroke="#30363d" stroke-width="1"/>
-<circle class="p" cx="549.5" cy="125" r="3.5" style="animation-delay:2.32s"/>
-<circle cx="549.5" cy="125" r="3.5" fill="#7DD3FC"/>
-<text class="l" x="607.0" y="122" text-anchor="middle">Hermes Agent</text>
-<text class="s" x="607.0" y="137" text-anchor="middle">agent · WebUI</text>
-<rect x="526.0" y="278.0" width="148" height="44" rx="22.0" fill="#161b22" stroke="#30363d" stroke-width="1"/>
-<circle class="p" cx="542.0" cy="300" r="3.5" style="animation-delay:2.61s"/>
-<circle cx="542.0" cy="300" r="3.5" fill="#7DD3FC"/>
-<text class="l" x="607.0" y="297" text-anchor="middle">Hermes gateway</text>
-<text class="s" x="607.0" y="312" text-anchor="middle">chat front end</text>
-<rect x="663.0" y="190.0" width="164" height="44" rx="22.0" fill="#161b22" stroke="#30363d" stroke-width="1"/>
-<circle class="p" cx="679.0" cy="212" r="3.5" style="animation-delay:2.90s"/>
-<circle cx="679.0" cy="212" r="3.5" fill="#7DD3FC"/>
-<text class="l" x="752.0" y="209" text-anchor="middle">llama.cpp router</text>
-<text class="s" x="752.0" y="224" text-anchor="middle">local Qwen 27B</text>
-<rect x="803.0" y="103.0" width="138" height="44" rx="22.0" fill="#161b22" stroke="#30363d" stroke-width="1"/>
-<circle class="p" cx="819.0" cy="125" r="3.5" style="animation-delay:3.19s"/>
-<circle cx="819.0" cy="125" r="3.5" fill="#7DD3FC"/>
-<text class="l" x="879.0" y="122" text-anchor="middle">ComfyUI</text>
-<text class="s" x="879.0" y="137" text-anchor="middle">image generation</text>
-<rect x="798.0" y="278.0" width="148" height="44" rx="22.0" fill="#161b22" stroke="#30363d" stroke-width="1"/>
-<circle class="p" cx="814.0" cy="300" r="3.5" style="animation-delay:3.48s"/>
-<circle cx="814.0" cy="300" r="3.5" fill="#7DD3FC"/>
-<text class="l" x="879.0" y="297" text-anchor="middle">2× Pascal GPUs</text>
-<text class="s" x="879.0" y="312" text-anchor="middle">GTX 1080 + 1070</text>
-<rect x="196.0" y="446.0" width="108" height="44" rx="22.0" fill="#161b22" stroke="#30363d" stroke-width="1"/>
-<circle class="p" cx="212.0" cy="468" r="3.5" style="animation-delay:3.77s"/>
-<circle cx="212.0" cy="468" r="3.5" fill="#7DD3FC"/>
-<text class="l" x="257.0" y="465" text-anchor="middle">Pi-hole</text>
-<text class="s" x="257.0" y="480" text-anchor="middle">Pi Zero 2 W</text>
-<rect x="507.0" y="446.0" width="186" height="44" rx="22.0" fill="#161b22" stroke="#30363d" stroke-width="1"/>
-<circle class="p" cx="523.0" cy="468" r="3.5" style="animation-delay:4.06s"/>
-<circle cx="523.0" cy="468" r="3.5" fill="#7DD3FC"/>
-<text class="l" x="607.0" y="465" text-anchor="middle">Discord</text>
-<text class="s" x="607.0" y="480" text-anchor="middle">bot · alerts · community</text>
-<rect x="37.0" y="550.0" width="186" height="44" rx="22.0" fill="#0c2a3a" stroke="#7DD3FC" stroke-width="1.6"/>
-<circle class="p" cx="53.0" cy="572" r="3.5" style="animation-delay:4.35s"/>
-<circle cx="53.0" cy="572" r="3.5" fill="#7DD3FC"/>
-<text class="l" x="137.0" y="569" text-anchor="middle">airborne-oxide</text>
-<text class="s" x="137.0" y="584" text-anchor="middle">Rust · uncrewed vehicles</text>
-<rect x="261.0" y="550.0" width="168" height="44" rx="22.0" fill="#0c2a3a" stroke="#7DD3FC" stroke-width="1.6"/>
-<circle class="p" cx="277.0" cy="572" r="3.5" style="animation-delay:4.64s"/>
-<circle cx="277.0" cy="572" r="3.5" fill="#7DD3FC"/>
-<text class="l" x="352.0" y="569" text-anchor="middle">Attendex</text>
-<text class="s" x="352.0" y="584" text-anchor="middle">TypeScript · students</text>
-<rect x="537.0" y="550.0" width="126" height="44" rx="22.0" fill="#161b22" stroke="#30363d" stroke-width="1"/>
-<circle cx="553.0" cy="572" r="3.5" fill="#8b949e"/>
-<text class="l" x="607.0" y="569" text-anchor="middle">The game</text>
-<text class="s" x="607.0" y="584" text-anchor="middle">in development</text>
-<rect x="752.0" y="550.0" width="186" height="44" rx="22.0" fill="#161b22" stroke="#30363d" stroke-width="1"/>
-<circle cx="768.0" cy="572" r="3.5" fill="#8b949e"/>
-<text class="l" x="852.0" y="569" text-anchor="middle">Rust VPN</text>
-<text class="s" x="852.0" y="584" text-anchor="middle">two layers of encryption</text>
-<text class="et" x="258" y="410" stroke="#0d1117" stroke-width="4" paint-order="stroke" stroke-linejoin="round">Pi-hole API</text>
-<text class="et" x="608" y="86" stroke="#0d1117" stroke-width="4" paint-order="stroke" stroke-linejoin="round">context engine</text>
-<text class="et" x="470" y="200" stroke="#0d1117" stroke-width="4" paint-order="stroke" stroke-linejoin="round">calls app APIs</text>
-<text class="et" x="418" y="62" stroke="#0d1117" stroke-width="4" paint-order="stroke" stroke-linejoin="round">builds it nightly</text>
-<text class="et" x="690" y="158" stroke="#0d1117" stroke-width="4" paint-order="stroke" stroke-linejoin="round">inference</text>
-<text class="et" x="836" y="172" stroke="#0d1117" stroke-width="4" paint-order="stroke" stroke-linejoin="round">unloads LLM first</text>
-<text class="et" x="880" y="212" stroke="#0d1117" stroke-width="4" paint-order="stroke" stroke-linejoin="round">runs on GPU 0</text>
-<text class="et" x="608" y="392" stroke="#0d1117" stroke-width="4" paint-order="stroke" stroke-linejoin="round">bot</text>
-<text class="et" x="448" y="432" stroke="#0d1117" stroke-width="4" paint-order="stroke" stroke-linejoin="round">uptime alerts</text>
-<text class="et" x="608" y="522" stroke="#0d1117" stroke-width="4" paint-order="stroke" stroke-linejoin="round">community</text>
-<text class="s" x="954" y="644" text-anchor="end">outlined = public repo (links below) · lines = what talks to what</text>
+<rect x="16" y="590" width="938" height="112" rx="14" fill="#0d1117" stroke="#30363d"/>
+<text class="h" x="34" y="616">ALSO ON THE BENCH</text>
+<path class="e" d="M268,245 L110,95"/>
+<path class="f" d="M268,245 L110,95" style="animation-delay:-0.00s"/>
+<path class="e" d="M268,245 L270,95"/>
+<path class="f" d="M268,245 L270,95" style="animation-delay:-0.37s"/>
+<path class="e" d="M268,245 L432,95"/>
+<path class="f" d="M268,245 L432,95" style="animation-delay:-0.74s"/>
+<path class="e" d="M268,245 L96,245"/>
+<path class="f" d="M268,245 L96,245" style="animation-delay:-1.11s"/>
+<path class="e" d="M268,245 L445,245"/>
+<path class="f" d="M268,245 L445,245" style="animation-delay:-1.48s"/>
+<path class="e" d="M268,245 L102,395"/>
+<path class="f" d="M268,245 L102,395" style="animation-delay:-1.85s"/>
+<path class="e" d="M268,245 L270,395"/>
+<path class="f" d="M268,245 L270,395" style="animation-delay:-2.22s"/>
+<path class="e" d="M268,245 L444,395"/>
+<path class="f" d="M268,245 L444,395" style="animation-delay:-2.59s"/>
+<path class="e" d="M660,48 L660,145"/>
+<path class="f" d="M660,48 L660,145" style="animation-delay:-0.16s"/>
+<path class="e" d="M660,145 Q470,150 268,245"/>
+<path class="f" d="M660,145 Q470,150 268,245" style="animation-delay:-0.53s"/>
+<path class="e" d="M660,145 L432,95"/>
+<path class="f" d="M660,145 L432,95" style="animation-delay:-0.90s"/>
+<path class="e" d="M660,145 Q430,-40 270,95"/>
+<path class="f" d="M660,145 Q430,-40 270,95" style="animation-delay:-1.27s"/>
+<path class="e" d="M858,145 L660,145"/>
+<path class="f" d="M858,145 L660,145" style="animation-delay:-1.64s"/>
+<path class="e" d="M858,145 L858,360"/>
+<path class="f" d="M858,145 L858,360" style="animation-delay:-2.01s"/>
+<path class="e" d="M858,145 L660,360"/>
+<path class="f" d="M858,145 L660,360" style="animation-delay:-2.38s"/>
+<path class="e" d="M445,245 L660,245"/>
+<path class="f" d="M445,245 L660,245" style="animation-delay:-2.75s"/>
+<path class="e" d="M660,245 L660,360"/>
+<path class="f" d="M660,245 L660,360" style="animation-delay:-0.32s"/>
+<path class="e" d="M270,395 L186,534"/>
+<path class="f" d="M270,395 L186,534" style="animation-delay:-0.69s"/>
+<path class="e" d="M102,395 L186,534"/>
+<path class="f" d="M102,395 L186,534" style="animation-delay:-1.06s"/>
+<path class="e" d="M858,360 L691,534"/>
+<path class="f" d="M858,360 L691,534" style="animation-delay:-1.43s"/>
+<path class="e" d="M444,395 L691,534"/>
+<path class="f" d="M444,395 L691,534" style="animation-delay:-1.80s"/>
+<path class="e" d="M691,534 L691,652"/>
+<path class="f" d="M691,534 L691,652" style="animation-delay:-2.17s"/>
+<rect x="185.5" y="220.0" width="165" height="50" rx="25.0" fill="#10283a" stroke="#7DD3FC" stroke-width="1.6"/>
+<circle class="p" cx="201.5" cy="245" r="3.5" style="animation-delay:0.00s"/>
+<circle cx="201.5" cy="245" r="3.5" fill="#7DD3FC"/>
+<text class="l" x="275.0" y="242" text-anchor="middle">Home Hub</text>
+<text class="s" x="275.0" y="257" text-anchor="middle">one Python server</text>
+<rect x="43.0" y="73.0" width="134" height="44" rx="22.0" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+<circle class="p" cx="59.0" cy="95" r="3.5" style="animation-delay:0.29s"/>
+<circle cx="59.0" cy="95" r="3.5" fill="#7DD3FC"/>
+<text class="l" x="117.0" y="92" text-anchor="middle">Transcribe</text>
+<text class="s" x="117.0" y="107" text-anchor="middle">speech to text</text>
+<rect x="203.0" y="73.0" width="134" height="44" rx="22.0" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+<circle class="p" cx="219.0" cy="95" r="3.5" style="animation-delay:0.58s"/>
+<circle cx="219.0" cy="95" r="3.5" fill="#7DD3FC"/>
+<text class="l" x="277.0" y="92" text-anchor="middle">Transmute</text>
+<text class="s" x="277.0" y="107" text-anchor="middle">file converter</text>
+<rect x="356.5" y="73.0" width="151" height="44" rx="22.0" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+<circle class="p" cx="372.5" cy="95" r="3.5" style="animation-delay:0.87s"/>
+<circle cx="372.5" cy="95" r="3.5" fill="#7DD3FC"/>
+<text class="l" x="439.0" y="92" text-anchor="middle">Lead Radar</text>
+<text class="s" x="439.0" y="107" text-anchor="middle">Municipal lead tracker</text>
+<rect x="23.5" y="223.0" width="145" height="44" rx="22.0" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+<circle class="p" cx="39.5" cy="245" r="3.5" style="animation-delay:1.16s"/>
+<circle cx="39.5" cy="245" r="3.5" fill="#7DD3FC"/>
+<text class="l" x="103.0" y="242" text-anchor="middle">3D Modeller</text>
+<text class="s" x="103.0" y="257" text-anchor="middle">viewer · renders</text>
+<rect x="364.0" y="223.0" width="162" height="44" rx="22.0" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+<circle class="p" cx="380.0" cy="245" r="3.5" style="animation-delay:1.45s"/>
+<circle cx="380.0" cy="245" r="3.5" fill="#7DD3FC"/>
+<text class="l" x="452.0" y="242" text-anchor="middle">AI Gallery</text>
+<text class="s" x="452.0" y="257" text-anchor="middle">scores image models</text>
+<rect x="32.0" y="373.0" width="140" height="44" rx="22.0" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+<circle class="p" cx="48.0" cy="395" r="3.5" style="animation-delay:1.74s"/>
+<circle cx="48.0" cy="395" r="3.5" fill="#7DD3FC"/>
+<text class="l" x="109.0" y="392" text-anchor="middle">Loom</text>
+<text class="s" x="109.0" y="407" text-anchor="middle">network defence</text>
+<rect x="206.0" y="373.0" width="128" height="44" rx="22.0" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+<circle class="p" cx="222.0" cy="395" r="3.5" style="animation-delay:2.03s"/>
+<circle cx="222.0" cy="395" r="3.5" fill="#7DD3FC"/>
+<text class="l" x="277.0" y="392" text-anchor="middle">Pi Fleet</text>
+<text class="s" x="277.0" y="407" text-anchor="middle">Raspberry Pis</text>
+<rect x="357.0" y="373.0" width="174" height="44" rx="22.0" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+<circle class="p" cx="373.0" cy="395" r="3.5" style="animation-delay:2.32s"/>
+<circle cx="373.0" cy="395" r="3.5" fill="#7DD3FC"/>
+<text class="l" x="451.0" y="392" text-anchor="middle">Control Room</text>
+<text class="s" x="451.0" y="407" text-anchor="middle">uptime · GPUs · spend</text>
+<rect x="568.5" y="26.0" width="183" height="44" rx="22.0" fill="#0c2a3a" stroke="#7DD3FC" stroke-width="1.6"/>
+<circle class="p" cx="584.5" cy="48" r="3.5" style="animation-delay:2.61s"/>
+<circle cx="584.5" cy="48" r="3.5" fill="#7DD3FC"/>
+<text class="l" x="667.0" y="45" text-anchor="middle">hermes-vcc-engine</text>
+<text class="s" x="667.0" y="60" text-anchor="middle">context compaction</text>
+<rect x="587.5" y="123.0" width="145" height="44" rx="22.0" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+<circle class="p" cx="603.5" cy="145" r="3.5" style="animation-delay:2.90s"/>
+<circle cx="603.5" cy="145" r="3.5" fill="#7DD3FC"/>
+<text class="l" x="667.0" y="142" text-anchor="middle">Hermes Agent</text>
+<text class="s" x="667.0" y="157" text-anchor="middle">agent · WebUI</text>
+<rect x="587.5" y="223.0" width="145" height="44" rx="22.0" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+<circle class="p" cx="603.5" cy="245" r="3.5" style="animation-delay:3.19s"/>
+<circle cx="603.5" cy="245" r="3.5" fill="#7DD3FC"/>
+<text class="l" x="667.0" y="242" text-anchor="middle">ComfyUI</text>
+<text class="s" x="667.0" y="257" text-anchor="middle">image generation</text>
+<rect x="580.0" y="338.0" width="160" height="44" rx="22.0" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+<circle class="p" cx="596.0" cy="360" r="3.5" style="animation-delay:0.28s"/>
+<circle cx="596.0" cy="360" r="3.5" fill="#7DD3FC"/>
+<text class="l" x="667.0" y="357" text-anchor="middle">2× Pascal GPUs</text>
+<text class="s" x="667.0" y="372" text-anchor="middle">GTX 1080 + 1070</text>
+<rect x="770.0" y="123.0" width="176" height="44" rx="22.0" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+<circle class="p" cx="786.0" cy="145" r="3.5" style="animation-delay:0.57s"/>
+<circle cx="786.0" cy="145" r="3.5" fill="#7DD3FC"/>
+<text class="l" x="865.0" y="142" text-anchor="middle">llama.cpp router</text>
+<text class="s" x="865.0" y="157" text-anchor="middle">local Qwen 27B</text>
+<rect x="778.0" y="338.0" width="160" height="44" rx="22.0" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+<circle class="p" cx="794.0" cy="360" r="3.5" style="animation-delay:0.86s"/>
+<circle cx="794.0" cy="360" r="3.5" fill="#7DD3FC"/>
+<text class="l" x="865.0" y="357" text-anchor="middle">Hermes gateway</text>
+<text class="s" x="865.0" y="372" text-anchor="middle">chat front end</text>
+<rect x="127.5" y="512.0" width="117" height="44" rx="22.0" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+<circle class="p" cx="143.5" cy="534" r="3.5" style="animation-delay:1.15s"/>
+<circle cx="143.5" cy="534" r="3.5" fill="#7DD3FC"/>
+<text class="l" x="193.0" y="531" text-anchor="middle">Pi-hole</text>
+<text class="s" x="193.0" y="546" text-anchor="middle">Pi Zero 2 W</text>
+<rect x="595.5" y="512.0" width="191" height="44" rx="22.0" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+<circle class="p" cx="611.5" cy="534" r="3.5" style="animation-delay:1.44s"/>
+<circle cx="611.5" cy="534" r="3.5" fill="#7DD3FC"/>
+<text class="l" x="698.0" y="531" text-anchor="middle">Discord</text>
+<text class="s" x="698.0" y="546" text-anchor="middle">bot · alerts · community</text>
+<rect x="32.5" y="630.0" width="179" height="44" rx="22.0" fill="#0c2a3a" stroke="#7DD3FC" stroke-width="1.6"/>
+<circle class="p" cx="48.5" cy="652" r="3.5" style="animation-delay:1.73s"/>
+<circle cx="48.5" cy="652" r="3.5" fill="#7DD3FC"/>
+<text class="l" x="129.0" y="649" text-anchor="middle">airborne-oxide</text>
+<text class="s" x="129.0" y="664" text-anchor="middle">Rust · flight software</text>
+<rect x="229.5" y="630.0" width="157" height="44" rx="22.0" fill="#0c2a3a" stroke="#7DD3FC" stroke-width="1.6"/>
+<circle class="p" cx="245.5" cy="652" r="3.5" style="animation-delay:2.02s"/>
+<circle cx="245.5" cy="652" r="3.5" fill="#7DD3FC"/>
+<text class="l" x="315.0" y="649" text-anchor="middle">OxidizedOasis</text>
+<text class="s" x="315.0" y="664" text-anchor="middle">Rust · Actix + Yew</text>
+<rect x="405.5" y="630.0" width="179" height="44" rx="22.0" fill="#0c2a3a" stroke="#7DD3FC" stroke-width="1.6"/>
+<circle class="p" cx="421.5" cy="652" r="3.5" style="animation-delay:2.31s"/>
+<circle cx="421.5" cy="652" r="3.5" fill="#7DD3FC"/>
+<text class="l" x="502.0" y="649" text-anchor="middle">Attendex</text>
+<text class="s" x="502.0" y="664" text-anchor="middle">attendance · live demo</text>
+<rect x="603.0" y="630.0" width="176" height="44" rx="22.0" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+<circle cx="619.0" cy="652" r="3.5" fill="#8b949e"/>
+<text class="l" x="698.0" y="649" text-anchor="middle">4v4 tactics game</text>
+<text class="s" x="698.0" y="664" text-anchor="middle">TypeScript · Three.js</text>
+<rect x="798.0" y="630.0" width="140" height="44" rx="22.0" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+<circle cx="814.0" cy="652" r="3.5" fill="#8b949e"/>
+<text class="l" x="875.0" y="649" text-anchor="middle">Rust VPN</text>
+<text class="s" x="875.0" y="664" text-anchor="middle">dual encryption</text>
+<text class="et" x="668" y="100" text-anchor="start" stroke="#0d1117" stroke-width="4" paint-order="stroke" stroke-linejoin="round">context engine</text>
+<text class="et" x="480" y="188" text-anchor="middle" stroke="#0d1117" stroke-width="4" paint-order="stroke" stroke-linejoin="round">calls app APIs</text>
+<text class="et" x="446" y="47" text-anchor="middle" stroke="#0d1117" stroke-width="4" paint-order="stroke" stroke-linejoin="round">builds both nightly</text>
+<text class="et" x="866" y="258" text-anchor="start" stroke="#0d1117" stroke-width="4" paint-order="stroke" stroke-linejoin="round">inference</text>
+<text class="et" x="556" y="249" text-anchor="middle" stroke="#0d1117" stroke-width="4" paint-order="stroke" stroke-linejoin="round">images</text>
+<text class="et" x="652" y="307" text-anchor="end" stroke="#0d1117" stroke-width="4" paint-order="stroke" stroke-linejoin="round">unloads the LLM first</text>
+<text class="et" x="239" y="450" text-anchor="middle" stroke="#0d1117" stroke-width="4" paint-order="stroke" stroke-linejoin="round">Pi-hole API</text>
+<text class="et" x="128" y="446" text-anchor="middle" stroke="#0d1117" stroke-width="4" paint-order="stroke" stroke-linejoin="round">DNS log · device names</text>
+<text class="et" x="774" y="451" text-anchor="middle" stroke="#0d1117" stroke-width="4" paint-order="stroke" stroke-linejoin="round">bot</text>
+<text class="et" x="560" y="462" text-anchor="middle" stroke="#0d1117" stroke-width="4" paint-order="stroke" stroke-linejoin="round">uptime alerts</text>
+<text class="et" x="699" y="576" text-anchor="start" stroke="#0d1117" stroke-width="4" paint-order="stroke" stroke-linejoin="round">community</text>
+<text class="s" x="954" y="722" text-anchor="end">outlined = public repo (links below) · grey dot = private for now · lines = what talks to what</text>
 </svg>
